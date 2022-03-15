@@ -1,0 +1,17 @@
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\bin\Debug\net6.0-windows\Pizza Party.exe
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\bin\Debug\net6.0-windows\Pizza Party.deps.json
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\bin\Debug\net6.0-windows\Pizza Party.runtimeconfig.json
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\bin\Debug\net6.0-windows\Pizza Party.dll
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\bin\Debug\net6.0-windows\ref\Pizza Party.dll
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\bin\Debug\net6.0-windows\Pizza Party.pdb
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\obj\Debug\net6.0-windows\Pizza Party.csproj.AssemblyReference.cache
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\obj\Debug\net6.0-windows\Pizza_Party.Form1.resources
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\obj\Debug\net6.0-windows\Pizza Party.csproj.GenerateResource.cache
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\obj\Debug\net6.0-windows\Pizza Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\obj\Debug\net6.0-windows\Pizza Party.AssemblyInfoInputs.cache
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\obj\Debug\net6.0-windows\Pizza Party.AssemblyInfo.cs
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\obj\Debug\net6.0-windows\Pizza Party.csproj.CoreCompileInputs.cache
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\obj\Debug\net6.0-windows\Pizza Party.dll
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\obj\Debug\net6.0-windows\ref\Pizza Party.dll
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\obj\Debug\net6.0-windows\Pizza Party.pdb
+C:\Users\mopin\Desktop\School\S4\C#\Labs\Pizza Party\Pizza Party\obj\Debug\net6.0-windows\Pizza Party.genruntimeconfig.cache
